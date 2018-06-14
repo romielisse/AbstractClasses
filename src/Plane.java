@@ -10,4 +10,18 @@ public final class Plane extends Vehicle{
 
     }
 
+    @Override
+    public void Run() {
+
+    }
+
+    @Override
+    public void Stop() {
+
+    }
+
+    @Override
+    public void Accelerate() {
+
+    }
 }

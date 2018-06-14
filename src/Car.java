@@ -39,5 +39,18 @@ public class Car extends Vehicle{
         return "The " + vehicleColor + " " + carModel + " passes its emissions test.";
     }
 
+    @Override
+    public void Run() {
 
+    }
+
+    @Override
+    public void Stop() {
+
+    }
+
+    @Override
+    public void Accelerate() {
+
+    }
 }
